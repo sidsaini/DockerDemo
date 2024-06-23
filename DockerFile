@@ -1,0 +1,3 @@
+FROM adoptopenjdk/openjdk11
+COPY 
+ENTARYPOINT [DockerDemo.jar] 
